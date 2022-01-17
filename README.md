@@ -1,1 +1,3 @@
 # Snake
+
+A small game of snake written in Java to learn about OOP programming paradigms and design patterns...
